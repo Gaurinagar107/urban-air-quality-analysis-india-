@@ -6,6 +6,7 @@ This project presents a comprehensive analysis of urban air quality across major
 The analysis focuses on four key pollutants—SO₂, NO₂, PM₁₀, and PM₂.₅—across multiple cities between 2019 and 2023. In addition to identifying temporal and spatial pollution patterns, a Random Forest Regression model was developed to forecast AQI values and evaluate predictive performance across different urban environments.
 
 Key Objectives
+
 Analyze long-term air quality trends across Indian cities.
 Identify seasonal and geographical variations in pollutant concentrations.
 Compare pollution patterns between metropolitan and regional urban centers.
